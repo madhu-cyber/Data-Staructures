@@ -1,4 +1,5 @@
- public class LinkedList {
+ //This is circular linked list
+public class LinkedList {
 	 Node head;
 	class Node{
 		 int data;
